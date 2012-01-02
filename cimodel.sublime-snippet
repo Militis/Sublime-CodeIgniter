@@ -13,6 +13,7 @@ class ${2:ModelName} extends CI_Model {
 }
 
 /* End of file $TM_FILENAME */
+/* Location: ./${TM_FILEPATH/^((?!application).)*//} */
 ]]></content>
     <tabTrigger>cimodel</tabTrigger>
     <scope>source.php</scope>
