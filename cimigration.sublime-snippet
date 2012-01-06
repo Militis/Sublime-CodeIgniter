@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+/**
+* $1
+*/
+class ${2:MigrationName} extends CI_Migration {
+
+	public function up()
+	{
+		$3
+	}
+
+	public function down()
+	{
+		$4
+	}
+}
+
+/* End of file $TM_FILENAME */
+/* Location: ./${TM_FILEPATH/^((?!application).)*//} */
+]]></content>
+    <tabTrigger>cimig</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI: Controller…</description>
+</snippet>
