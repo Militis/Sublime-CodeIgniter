@@ -12,7 +12,7 @@
 * @author		${6:$TM_FULLNAME}
 * @link			http://${7:www.}${8:google}.${9:com}/
 */
-class $1 extends ${10:CI}_Model {
+class ${10:$1} extends ${11:CI}_Model {
 	
 	// ------------------------------------------------------------------------
 	
@@ -22,7 +22,7 @@ class $1 extends ${10:CI}_Model {
 	 * @access	${14:public}
 	 * @return	${15:void}
 	 **/
-	public function ${11:method}($12)
+	public function ${12:method}($12)
 	{
 		$0
 	}
