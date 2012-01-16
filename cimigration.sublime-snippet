@@ -12,16 +12,16 @@
 * @author		${6:$TM_FULLNAME}
 * @link			http://${7:www.}${8:google}.${9:com}/
 */
-class $1 extends ${10:CI}_Migration {
+class Migration_${10:} extends ${11:CI}_Migration {
 
-	public function up($11)
+	public function up($12)
 	{
 		$0
 	}
 
 	// ------------------------------------------------------------------------
 
-	public function down($12)
+	public function down($13)
 	{
 		
 	}
