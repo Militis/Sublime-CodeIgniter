@@ -17,12 +17,12 @@ class ${10:$1} extends ${11:CI}_Controller {
 	// ------------------------------------------------------------------------
 	
 	/**
-	 * ${13:index page}
+	 * ${14:index page}
 	 * 
-	 * @access	${14:public}
-	 * @return	${15:void}
+	 * @access	${15:public}
+	 * @return	${16:void}
 	 **/
-	public function ${12:index}($12)
+	public function ${12:index}($13)
 	{
 		$0
 	}

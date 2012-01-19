@@ -17,12 +17,12 @@ class ${10:$1} extends ${11:CI}_Model {
 	// ------------------------------------------------------------------------
 	
 	/**
-	 * ${13:method name}
+	 * ${14:method name}
 	 * 
-	 * @access	${14:public}
-	 * @return	${15:void}
+	 * @access	${15:public}
+	 * @return	${16:void}
 	 **/
-	public function ${12:method}($12)
+	public function ${12:method}($13)
 	{
 		$0
 	}
