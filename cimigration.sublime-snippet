@@ -6,6 +6,7 @@
 * 
 * ${2:Migration Description}
 * 
+* @date			${14:}
 * @package		${3:default}
 * @subpackage	${4:none}
 * @category		${5:Migration}
