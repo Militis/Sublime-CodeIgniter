@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->db->query("$1");]]></content>
+	<tabTrigger>ciquery</tabTrigger>
+	<scope>source.php</scope>
+	<description>ciquery</description>
+</snippet>

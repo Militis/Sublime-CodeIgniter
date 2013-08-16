@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');]]></content>
+	<tabTrigger>cistart</tabTrigger>
+	<scope>source.php</scope>
+	<description>Start CodeIgniter file</description>
+</snippet>
